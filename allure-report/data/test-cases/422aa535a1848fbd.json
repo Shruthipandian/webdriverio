@@ -1,0 +1,64 @@
+{
+  "uid" : "422aa535a1848fbd",
+  "name" : "Verify the menu items for Volvo Home Page",
+  "fullName" : "Verify the Volvo Home Page Test2.Verify the menu items for Volvo Home Page",
+  "historyId" : "620afcde075d96d79f4e587dc87acc84",
+  "time" : {
+    "start" : 1637268139011,
+    "stop" : 1637268140084,
+    "duration" : 1073
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Failed to click element not interactable: element not interactable\n                  (Session info: headless chrome=96.0.4664.55)",
+  "statusTrace" : "AssertionError: Failed to click element not interactable: element not interactable\n                  (Session info: headless chrome=96.0.4664.55)\n                    at SafeActions.smartClick (/Users/prabhu/Downloads/TestProject-3/Utilities/SafeActions.js:20:16)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async HomePage.open (/Users/prabhu/Downloads/TestProject-3/pages/HomePage.js:8:9)\n                    at async Context.<anonymous> (/Users/prabhu/Downloads/TestProject-3/specs/Test_001.js:16:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Volvo Home Page Test2"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Volvo Home Page Test2"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the menu items for Volvo Home Page"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Volvo Home Page Test2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "422aa535a1848fbd.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

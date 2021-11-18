@@ -1,0 +1,211 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Verify the Volvo Home Page Test2",
+    "children" : [ {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "34bf0494991034dc",
+      "parentUid" : "d1649d2c06fdaaaa0be79d353926d6e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637260001316,
+        "stop" : 1637260006853,
+        "duration" : 5537
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "422aa535a1848fbd",
+      "parentUid" : "d1649d2c06fdaaaa0be79d353926d6e8",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637268139011,
+        "stop" : 1637268140084,
+        "duration" : 1073
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "bb3fdc16f8c30716",
+      "parentUid" : "d1649d2c06fdaaaa0be79d353926d6e8",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637273018733,
+        "stop" : 1637273019768,
+        "duration" : 1035
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "d1649d2c06fdaaaa0be79d353926d6e8"
+  }, {
+    "name" : "Verify the Volvo Home Page Test3",
+    "children" : [ {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "706fb595d05e6f9a",
+      "parentUid" : "c0f6c8986d3906eec098dfc112b18a8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637260001316,
+        "stop" : 1637260006867,
+        "duration" : 5551
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    } ],
+    "uid" : "c0f6c8986d3906eec098dfc112b18a8d"
+  }, {
+    "name" : "Verify the Volvo Home Page Test1",
+    "children" : [ {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "322ae5241cc6f16b",
+      "parentUid" : "bc204328f8f110fb211d40098d87b95b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637260173873,
+        "stop" : 1637260177397,
+        "duration" : 3524
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "ac465844ede67488",
+      "parentUid" : "bc204328f8f110fb211d40098d87b95b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637271903193,
+        "stop" : 1637271907661,
+        "duration" : 4468
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "to click learn more button in Volvo Home Page",
+      "uid" : "37aa782140e6ea69",
+      "parentUid" : "bc204328f8f110fb211d40098d87b95b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637271907669,
+        "stop" : 1637271908564,
+        "duration" : 895
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "should detect if an element is clickable",
+      "uid" : "68c6d226f76efa1b",
+      "parentUid" : "bc204328f8f110fb211d40098d87b95b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637271908565,
+        "stop" : 1637271908601,
+        "duration" : 36
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "should detect if an element is displayed",
+      "uid" : "c648cccf27976fda",
+      "parentUid" : "bc204328f8f110fb211d40098d87b95b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637271908602,
+        "stop" : 1637271908628,
+        "duration" : 26
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "bc204328f8f110fb211d40098d87b95b"
+  }, {
+    "name" : "Verify our cars Menu",
+    "children" : [ {
+      "name" : "Verify the electic cars",
+      "uid" : "169df4090de4e289",
+      "parentUid" : "3700e199d49e3f02656f7abe133368e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277907124,
+        "stop" : 1637277910037,
+        "duration" : 2913
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the different cars menu",
+      "uid" : "27d310548fac737d",
+      "parentUid" : "3700e199d49e3f02656f7abe133368e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278249301,
+        "stop" : 1637278253052,
+        "duration" : 3751
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the different electric cars ",
+      "uid" : "3587c8720b37b434",
+      "parentUid" : "3700e199d49e3f02656f7abe133368e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278253053,
+        "stop" : 1637278253224,
+        "duration" : 171
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "3700e199d49e3f02656f7abe133368e9"
+  }, {
+    "name" : "Verify the Volvo Home Page Nav Bar",
+    "children" : [ {
+      "name" : "Verify navigation bar",
+      "uid" : "4aabc7dfa53db65",
+      "parentUid" : "1e1f91a03b62d669daa05d588a4f8eeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278249113,
+        "stop" : 1637278253828,
+        "duration" : 4715
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "1e1f91a03b62d669daa05d588a4f8eeb"
+  }, {
+    "name" : "Verify the buy item frommeny",
+    "children" : [ {
+      "name" : "verify design your volvo page",
+      "uid" : "31a40f941857bacf",
+      "parentUid" : "fb24700276b283eb684e949884755154",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278249154,
+        "stop" : 1637278253913,
+        "duration" : 4759
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "fb24700276b283eb684e949884755154"
+  } ],
+  "name" : "packages"
+}

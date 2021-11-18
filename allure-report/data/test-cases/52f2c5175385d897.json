@@ -1,0 +1,58 @@
+{
+  "uid" : "52f2c5175385d897",
+  "name" : "Verify the electic cars",
+  "fullName" : "Verify our cars Menu.Verify the electic cars",
+  "historyId" : "199fe153cd64690b1c65942d6ee4002b",
+  "time" : {
+    "start" : 1637277731139,
+    "stop" : 1637277735322,
+    "duration" : 4183
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Failed to click invalid selector: invalid selector: Unable to locate an element with the xpath expression ///*[@id='site-nav-cars-menu-section-tab-0']/h2 because of the following error:\n                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '///*[@id='site-nav-cars-menu-section-tab-0']/h2' is not a valid XPath expression.\n                  (Session info: chrome=96.0.4664.55)",
+  "statusTrace" : "AssertionError: Failed to click invalid selector: invalid selector: Unable to locate an element with the xpath expression ///*[@id='site-nav-cars-menu-section-tab-0']/h2 because of the following error:\n                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '///*[@id='site-nav-cars-menu-section-tab-0']/h2' is not a valid XPath expression.\n                  (Session info: chrome=96.0.4664.55)\n                    at SafeActions.smartClick (/Users/prabhu/Downloads/TestProject-3/Utilities/SafeActions.js:20:24)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async Context.<anonymous> (/Users/prabhu/Downloads/TestProject-3/specs/Test_002.js:12:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the electic cars"
+  }, {
+    "name" : "package",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52f2c5175385d897.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "40ef725813c9b756",
+  "name" : "Verify the electic cars",
+  "fullName" : "Verify our cars Menu.Verify the electic cars",
+  "historyId" : "199fe153cd64690b1c65942d6ee4002b",
+  "time" : {
+    "start" : 1637276586166,
+    "stop" : 1637276597242,
+    "duration" : 11076
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Failed to click Error: Can't call click on element with selector \"//em[text()='Ou Cars']\" because element wasn't found",
+  "statusTrace" : "AssertionError: Failed to click Error: Can't call click on element with selector \"//em[text()='Ou Cars']\" because element wasn't found\n                    at SafeActions.smartClick (/Users/prabhu/Downloads/TestProject-3/Utilities/SafeActions.js:20:24)\n                    at async HomePage.navigateToOurCars (/Users/prabhu/Downloads/TestProject-3/pages/HomePage.js:16:9)\n                    at async Context.<anonymous> (/Users/prabhu/Downloads/TestProject-3/specs/Test_002.js:9:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the electic cars"
+  }, {
+    "name" : "package",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40ef725813c9b756.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

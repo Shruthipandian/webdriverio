@@ -1,0 +1,58 @@
+{
+  "uid" : "f20009df9ae66228",
+  "name" : "Verify navigation bar",
+  "fullName" : "Verify the Volvo Home Page Nav Bar.Verify navigation bar",
+  "historyId" : "1da5677d7c2e56da24478c5f7377b1de",
+  "time" : {
+    "start" : 1637275510122,
+    "stop" : 1637275511303,
+    "duration" : 1181
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+  "statusTrace" : "AssertionError: Failed to click Error: selector needs to be typeof `string` or `function`\n                    at SafeActions.smartClick (/Users/prabhu/Downloads/TestProject-3/Utilities/SafeActions.js:20:24)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async HomePage.navigateToCarConfigurator (/Users/prabhu/Downloads/TestProject-3/pages/HomePage.js:11:9)\n                    at async Context.<anonymous> (/Users/prabhu/Downloads/TestProject-3/specs/Test_001.js:15:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Volvo Home Page Nav Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Volvo Home Page Nav Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify navigation bar"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Volvo Home Page Nav Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f20009df9ae66228.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

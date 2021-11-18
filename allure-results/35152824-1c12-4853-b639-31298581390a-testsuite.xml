@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637272865927' stop='1637272866371'>
+    <name>Verify the Volvo Home Page Test2</name>
+    <title>Verify the Volvo Home Page Test2</title>
+    <test-cases>
+        <test-case start='1637272865927' status='broken' stop='1637272866371'>
+            <name>Verify the video in Volvo Home Page</name>
+            <title>Verify the video in Volvo Home Page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Failed to click element not interactable: element not interactable
+                  (Session info: headless chrome=96.0.4664.55)</message>
+                <stack-trace>AssertionError: Failed to click element not interactable: element not interactable
+                  (Session info: headless chrome=96.0.4664.55)
+                    at SafeActions.smartClick (/Users/prabhu/Downloads/TestProject-3/Utilities/SafeActions.js:20:16)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at async HomePage.open (/Users/prabhu/Downloads/TestProject-3/pages/HomePage.js:8:9)
+                    at async Context.&lt;anonymous> (/Users/prabhu/Downloads/TestProject-3/specs/Test_001.js:46:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

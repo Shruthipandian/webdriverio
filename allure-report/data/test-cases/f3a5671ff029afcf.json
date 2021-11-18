@@ -1,0 +1,56 @@
+{
+  "uid" : "f3a5671ff029afcf",
+  "name" : "Verify the menu items for Volvo Home Page",
+  "fullName" : "Verify the Volvo Home Page Test1.Verify the menu items for Volvo Home Page",
+  "historyId" : "5d297daa31ac5e347cf98b129d28dd2f",
+  "time" : {
+    "start" : 1637260001316,
+    "stop" : 1637260006472,
+    "duration" : 5156
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Volvo Home Page Test1"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Volvo Home Page Test1"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the menu items for Volvo Home Page"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Volvo Home Page Test1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3a5671ff029afcf.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

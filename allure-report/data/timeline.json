@@ -1,0 +1,1369 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "to click learn more button in Volvo Home Page",
+      "uid" : "e35d146d0184c262",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637270799586,
+        "stop" : 1637270800431,
+        "duration" : 845
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "40ef725813c9b756",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637276586166,
+        "stop" : 1637276597242,
+        "duration" : 11076
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "7d9d51463f1aaf83",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637277817966,
+        "stop" : 1637277830844,
+        "duration" : 12878
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "3362ef89ba25bf24",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275193328,
+        "stop" : 1637275197563,
+        "duration" : 4235
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "c8a370b070bede0e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637277444768,
+        "stop" : 1637277456978,
+        "duration" : 12210
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "96b4266629ed58e6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637277387416,
+        "stop" : 1637277399759,
+        "duration" : 12343
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "c05d9f1e3642503",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637273625996,
+        "stop" : 1637273626982,
+        "duration" : 986
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "789332766f264177",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637275060679,
+        "stop" : 1637275061647,
+        "duration" : 968
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "3dde726c81812661",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277341802,
+        "stop" : 1637277344600,
+        "duration" : 2798
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "257ccc9d2e6bd61b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277479251,
+        "stop" : 1637277482040,
+        "duration" : 2789
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "6d36b4630925bce5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275163515,
+        "stop" : 1637275168617,
+        "duration" : 5102
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "249647cf9206201b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637275582080,
+        "stop" : 1637275583031,
+        "duration" : 951
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "91dbf953ca39ca18",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275811826,
+        "stop" : 1637275815406,
+        "duration" : 3580
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "28c09a14691755ed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637275780269,
+        "stop" : 1637275782682,
+        "duration" : 2413
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "c135390d42a4c0de",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637269148868,
+        "stop" : 1637269149678,
+        "duration" : 810
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "2ded34d0cb132526",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637275114807,
+        "stop" : 1637275115983,
+        "duration" : 1176
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "c985d114b39dd0c2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637274985933,
+        "stop" : 1637274987061,
+        "duration" : 1128
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "2dd64611ecd024b8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637269304189,
+        "stop" : 1637269307917,
+        "duration" : 3728
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "169df4090de4e289",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277907124,
+        "stop" : 1637277910037,
+        "duration" : 2913
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "83fb18953de6cca2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637276838362,
+        "stop" : 1637276850761,
+        "duration" : 12399
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "a4bac39178818a89",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637273002340,
+        "stop" : 1637273002814,
+        "duration" : 474
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "322ae5241cc6f16b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637260173873,
+        "stop" : 1637260177397,
+        "duration" : 3524
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "d5be3f1d3d99496b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637267078763,
+        "stop" : 1637267079585,
+        "duration" : 822
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "15112536db085aa5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277866010,
+        "stop" : 1637277868879,
+        "duration" : 2869
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "should detect if an element is clickable",
+      "uid" : "65343b9be5b8e5e1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637270957046,
+        "stop" : 1637270957083,
+        "duration" : 37
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "1f6f768c35d5121a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637270795886,
+        "stop" : 1637270799576,
+        "duration" : 3690
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "f0537fe494660775",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637269144088,
+        "stop" : 1637269147803,
+        "duration" : 3715
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "da8514972447825e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637268406774,
+        "stop" : 1637268407407,
+        "duration" : 633
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "f5135fa7172a4ae6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637266960572,
+        "stop" : 1637266965584,
+        "duration" : 5012
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "verify design your volvo page",
+      "uid" : "46ede182e6f5d643",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278229509,
+        "stop" : 1637278233367,
+        "duration" : 3858
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "719279add5c9d42c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637275494912,
+        "stop" : 1637275495906,
+        "duration" : 994
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "to click learn more button in Volvo Home Page",
+      "uid" : "ec02d5c837eeff51",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637270956370,
+        "stop" : 1637270957045,
+        "duration" : 675
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "8972a0db3f544872",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637273239441,
+        "stop" : 1637273240375,
+        "duration" : 934
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "1d7ca084aaeae59a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276412726,
+        "stop" : 1637276414771,
+        "duration" : 2045
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "fd2fda1f06852ebb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275845425,
+        "stop" : 1637275849077,
+        "duration" : 3652
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "1cbddeecc3a855b5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637272865020,
+        "stop" : 1637272865920,
+        "duration" : 900
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "16fe97dabcb97396",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637270957085,
+        "stop" : 1637270958268,
+        "duration" : 1183
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "359661fe73d072f9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637267074323,
+        "stop" : 1637267078757,
+        "duration" : 4434
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "2ab0f79ef07df054",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637268135145,
+        "stop" : 1637268139005,
+        "duration" : 3860
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "d26cbaf77ba21df0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637266965590,
+        "stop" : 1637266966294,
+        "duration" : 704
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "4c9ef1756d1f1505",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637274394623,
+        "stop" : 1637274398261,
+        "duration" : 3638
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "d198091b9934f88",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637275641857,
+        "stop" : 1637275642758,
+        "duration" : 901
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "8797fc2742506c24",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637270800471,
+        "stop" : 1637270801085,
+        "duration" : 614
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "44541bcefac9e9ce",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637274917941,
+        "stop" : 1637274919090,
+        "duration" : 1149
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "17214c2007903b68",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276470163,
+        "stop" : 1637276472281,
+        "duration" : 2118
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "799c56a0fa73dc49",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275614384,
+        "stop" : 1637275617895,
+        "duration" : 3511
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "4aabc7dfa53db65",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278249113,
+        "stop" : 1637278253828,
+        "duration" : 4715
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "fed04c9c71399e0a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277769205,
+        "stop" : 1637277774046,
+        "duration" : 4841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the different cars menu",
+      "uid" : "c2fa13a9248ff37b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278014087,
+        "stop" : 1637278016945,
+        "duration" : 2858
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "7ad2d86cc6783d59",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637272808735,
+        "stop" : 1637272810251,
+        "duration" : 1516
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "fe7a5c6a3e775677",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275922586,
+        "stop" : 1637275927044,
+        "duration" : 4458
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "c5be1a7212a54409",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637276893588,
+        "stop" : 1637276905842,
+        "duration" : 12254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "ac465844ede67488",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637271903193,
+        "stop" : 1637271907661,
+        "duration" : 4468
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "1c6a53bea9a49f85",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276507765,
+        "stop" : 1637276509840,
+        "duration" : 2075
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "to click learn more button in Volvo Home Page",
+      "uid" : "37aa782140e6ea69",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637271907669,
+        "stop" : 1637271908564,
+        "duration" : 895
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "6375ebd0145b5764",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637275033072,
+        "stop" : 1637275034107,
+        "duration" : 1035
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "3eb4f10bcc89bc8e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637274649578,
+        "stop" : 1637274653241,
+        "duration" : 3663
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the different electric cars ",
+      "uid" : "5dc51c679c363f4e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278051750,
+        "stop" : 1637278051891,
+        "duration" : 141
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "539737149c840d4b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637274560232,
+        "stop" : 1637274561372,
+        "duration" : 1140
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "422aa535a1848fbd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637268139011,
+        "stop" : 1637268140084,
+        "duration" : 1073
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "bc180e6277e8e3ff",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276956311,
+        "stop" : 1637276960092,
+        "duration" : 3781
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "902737053ab17042",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637277100856,
+        "stop" : 1637277114809,
+        "duration" : 13953
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "to click learn more button in Volvo Home Page",
+      "uid" : "ae73fdcb42eca1fd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637269147808,
+        "stop" : 1637269148865,
+        "duration" : 1057
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "a5c5ffcb91885675",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637273017737,
+        "stop" : 1637273018721,
+        "duration" : 984
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "bb3fdc16f8c30716",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637273018733,
+        "stop" : 1637273019768,
+        "duration" : 1035
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "2565e062803d4538",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276432286,
+        "stop" : 1637276434449,
+        "duration" : 2163
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "8c5731f26d5529b7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637275271616,
+        "stop" : 1637275272552,
+        "duration" : 936
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "should detect if an element is clickable",
+      "uid" : "68c6d226f76efa1b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637271908565,
+        "stop" : 1637271908601,
+        "duration" : 36
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "472ba62d5d0bc4c5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637275340237,
+        "stop" : 1637275341330,
+        "duration" : 1093
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "b61194e8cd54d826",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276653038,
+        "stop" : 1637276655125,
+        "duration" : 2087
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "5f32b615102868c2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277882362,
+        "stop" : 1637277885230,
+        "duration" : 2868
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "52f2c5175385d897",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637277731139,
+        "stop" : 1637277735322,
+        "duration" : 4183
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "ad310981d4e16974",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637272865927,
+        "stop" : 1637272866371,
+        "duration" : 444
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "c32650f165f94275",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637277283950,
+        "stop" : 1637277296699,
+        "duration" : 12749
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "should detect if an element is clickable",
+      "uid" : "528d7cb310d8398b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637270800432,
+        "stop" : 1637270800470,
+        "duration" : 38
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "to click learn more button in Volvo Home Page",
+      "uid" : "8923063aaa9a16f0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637269307924,
+        "stop" : 1637269308467,
+        "duration" : 543
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "b4e25070d779572a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637273038840,
+        "stop" : 1637273039697,
+        "duration" : 857
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the different electric cars ",
+      "uid" : "1ad675ddb2d0572a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278016945,
+        "stop" : 1637278017088,
+        "duration" : 143
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "3a17b3edfb7bcbe7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637275555365,
+        "stop" : 1637275556367,
+        "duration" : 1002
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "fa53e4c1ed5416b6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637272810258,
+        "stop" : 1637272810989,
+        "duration" : 731
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "b16f95a079898c95",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637259941536,
+        "stop" : 1637259943207,
+        "duration" : 1671
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "f8e0a9a9ad2b8744",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637268402884,
+        "stop" : 1637268406767,
+        "duration" : 3883
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "should detect if an element is displayed",
+      "uid" : "c648cccf27976fda",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637271908602,
+        "stop" : 1637271908628,
+        "duration" : 26
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "f60db61e5d9f1ad1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275732648,
+        "stop" : 1637275736304,
+        "duration" : 3656
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "6817bf3e0e6422f6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637271908629,
+        "stop" : 1637271909439,
+        "duration" : 810
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "b781c849f4284586",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637273464348,
+        "stop" : 1637273467866,
+        "duration" : 3518
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "9f9c1e467ed0570e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637270951827,
+        "stop" : 1637270956363,
+        "duration" : 4536
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the different cars menu",
+      "uid" : "2ef3cdea4ca9296b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278048822,
+        "stop" : 1637278051749,
+        "duration" : 2927
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "867192964f2a1db7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637273499726,
+        "stop" : 1637273503361,
+        "duration" : 3635
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "b9f72141e69594c4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277320741,
+        "stop" : 1637277323306,
+        "duration" : 2565
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "417319e5874447f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637277046342,
+        "stop" : 1637277058746,
+        "duration" : 12404
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "f3a5671ff029afcf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637260001316,
+        "stop" : 1637260006472,
+        "duration" : 5156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Verify the electic cars",
+      "uid" : "58113ce3172d7562",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637277639696,
+        "stop" : 1637277642353,
+        "duration" : 2657
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "f20009df9ae66228",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637275510122,
+        "stop" : 1637275511303,
+        "duration" : 1181
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the video in Volvo Home Page",
+      "uid" : "3427c8916b6d613a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637269308469,
+        "stop" : 1637269309085,
+        "duration" : 616
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "e21d343a935e128e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637273001305,
+        "stop" : 1637273002333,
+        "duration" : 1028
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify navigation bar",
+      "uid" : "c79cba563ef4f788",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637273678096,
+        "stop" : 1637273679155,
+        "duration" : 1059
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "Verify the different electric cars ",
+      "uid" : "3587c8720b37b434",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278253053,
+        "stop" : 1637278253224,
+        "duration" : 171
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "34bf0494991034dc",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637260001316,
+        "stop" : 1637260006853,
+        "duration" : 5537
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Verify the different cars menu",
+      "uid" : "27d310548fac737d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278249301,
+        "stop" : 1637278253052,
+        "duration" : 3751
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "4ae26ae98b04813f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637259941515,
+        "stop" : 1637259943795,
+        "duration" : 2280
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "0-2",
+    "children" : [ {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "706fb595d05e6f9a",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637260001316,
+        "stop" : 1637260006867,
+        "duration" : 5551
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "verify design your volvo page",
+      "uid" : "31a40f941857bacf",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278249154,
+        "stop" : 1637278253913,
+        "duration" : 4759
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Verify the menu items for Volvo Home Page",
+      "uid" : "1f4657f630c9143a",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "broken",
+      "time" : {
+        "start" : 1637259941514,
+        "stop" : 1637259943796,
+        "duration" : 2282
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    } ],
+    "uid" : "880a094af3dffab161e2023284569d6f"
+  } ],
+  "name" : "timeline"
+}

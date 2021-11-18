@@ -1,0 +1,75 @@
+{
+  "uid" : "322ae5241cc6f16b",
+  "name" : "Verify the menu items for Volvo Home Page",
+  "fullName" : "Verify the Volvo Home Page Test1.Verify the menu items for Volvo Home Page",
+  "historyId" : "5d297daa31ac5e347cf98b129d28dd2f",
+  "time" : {
+    "start" : 1637260173873,
+    "stop" : 1637260177397,
+    "duration" : 3524
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Volvo Home Page Test1"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Volvo Home Page Test1"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the menu items for Volvo Home Page"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Volvo Home Page Test1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f3a5671ff029afcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637260001316,
+        "stop" : 1637260006472,
+        "duration" : 5156
+      }
+    }, {
+      "uid" : "b16f95a079898c95",
+      "status" : "broken",
+      "statusDetails" : "Failed to click element not interactable: element not interactable\n                  (Session info: headless chrome=96.0.4664.45)",
+      "time" : {
+        "start" : 1637259941536,
+        "stop" : 1637259943207,
+        "duration" : 1671
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "322ae5241cc6f16b.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

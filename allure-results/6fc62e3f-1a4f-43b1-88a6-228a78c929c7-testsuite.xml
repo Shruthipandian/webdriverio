@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637275582079' stop='1637275583032'>
+    <name>Verify the Volvo Home Page Nav Bar</name>
+    <title>Verify the Volvo Home Page Nav Bar</title>
+    <test-cases>
+        <test-case start='1637275582080' status='broken' stop='1637275583031'>
+            <name>Verify navigation bar</name>
+            <title>Verify navigation bar</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Failed to click Error: selector needs to be typeof `string` or `function`</message>
+                <stack-trace>AssertionError: Failed to click Error: selector needs to be typeof `string` or `function`
+                    at SafeActions.smartClick (/Users/prabhu/Downloads/TestProject-3/Utilities/SafeActions.js:20:24)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at async HomePage.navigateToCarConfigurator (/Users/prabhu/Downloads/TestProject-3/pages/HomePage.js:11:9)
+                    at async Context.&lt;anonymous> (/Users/prabhu/Downloads/TestProject-3/specs/Test_001.js:15:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

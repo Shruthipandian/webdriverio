@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637276586166' stop='1637276597245'>
+    <name>Verify our cars Menu</name>
+    <title>Verify our cars Menu</title>
+    <test-cases>
+        <test-case start='1637276586166' status='broken' stop='1637276597242'>
+            <name>Verify the electic cars</name>
+            <title>Verify the electic cars</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Failed to click Error: Can't call click on element with selector "//em[text()='Ou Cars']" because element wasn't found</message>
+                <stack-trace>AssertionError: Failed to click Error: Can't call click on element with selector "//em[text()='Ou Cars']" because element wasn't found
+                    at SafeActions.smartClick (/Users/prabhu/Downloads/TestProject-3/Utilities/SafeActions.js:20:24)
+                    at async HomePage.navigateToOurCars (/Users/prabhu/Downloads/TestProject-3/pages/HomePage.js:16:9)
+                    at async Context.&lt;anonymous> (/Users/prabhu/Downloads/TestProject-3/specs/Test_002.js:9:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

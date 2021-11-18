@@ -1,0 +1,56 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Failed to click element not interactable: element not interactable\n                  (Session info: headless chrome=96.0.4664.55)",
+      "children" : [ {
+        "name" : "Verify the menu items for Volvo Home Page",
+        "uid" : "422aa535a1848fbd",
+        "parentUid" : "60bd553164c17250fa01e18844c33d66",
+        "status" : "broken",
+        "time" : {
+          "start" : 1637268139011,
+          "stop" : 1637268140084,
+          "duration" : 1073
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-96.0.4664.55" ]
+      }, {
+        "name" : "Verify the video in Volvo Home Page",
+        "uid" : "bb3fdc16f8c30716",
+        "parentUid" : "60bd553164c17250fa01e18844c33d66",
+        "status" : "broken",
+        "time" : {
+          "start" : 1637273018733,
+          "stop" : 1637273019768,
+          "duration" : 1035
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-96.0.4664.55" ]
+      } ],
+      "uid" : "60bd553164c17250fa01e18844c33d66"
+    }, {
+      "name" : "Failed to click element not interactable: element not interactable\n                  (Session info: chrome=96.0.4664.55)",
+      "children" : [ {
+        "name" : "to click learn more button in Volvo Home Page",
+        "uid" : "37aa782140e6ea69",
+        "parentUid" : "75e57214252948e1f6fcacac93e52e6a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1637271907669,
+          "stop" : 1637271908564,
+          "duration" : 895
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-96.0.4664.55" ]
+      } ],
+      "uid" : "75e57214252948e1f6fcacac93e52e6a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

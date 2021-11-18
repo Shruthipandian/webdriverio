@@ -1,0 +1,70 @@
+{
+  "total" : 6,
+  "items" : [ {
+    "uid" : "eeb4e7f94b6fe219928019f884617773",
+    "name" : "Verify the Volvo Home Page Test2",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "e04e6aaecd12fe2b9e021642c7cf7789",
+    "name" : "Verify the Volvo Home Page Test1",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "62b5762b07a20d7e0772070d7dd0f9db",
+    "name" : "Verify our cars Menu",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "5e0b5521754facec7d7a8f23c533ebd6",
+    "name" : "Verify the Volvo Home Page Test3",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "83a46dadd7d6ecea93bcd4ca758f8ab2",
+    "name" : "Verify the Volvo Home Page Nav Bar",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "ab1a6bf61bfeab63c2843ac51c8a2a51",
+    "name" : "Verify the buy item frommeny",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

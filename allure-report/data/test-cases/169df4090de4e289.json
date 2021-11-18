@@ -1,0 +1,253 @@
+{
+  "uid" : "169df4090de4e289",
+  "name" : "Verify the electic cars",
+  "fullName" : "Verify our cars Menu.Verify the electic cars",
+  "historyId" : "199fe153cd64690b1c65942d6ee4002b",
+  "time" : {
+    "start" : 1637277907124,
+    "stop" : 1637277910037,
+    "duration" : 2913
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the electic cars"
+  }, {
+    "name" : "package",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5f32b615102868c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277882362,
+        "stop" : 1637277885230,
+        "duration" : 2868
+      }
+    }, {
+      "uid" : "15112536db085aa5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277866010,
+        "stop" : 1637277868879,
+        "duration" : 2869
+      }
+    }, {
+      "uid" : "7d9d51463f1aaf83",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: Can't call click on element with selector \"//em[text()='Mild hybrids']\" because element wasn't found",
+      "time" : {
+        "start" : 1637277817966,
+        "stop" : 1637277830844,
+        "duration" : 12878
+      }
+    }, {
+      "uid" : "fed04c9c71399e0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277769205,
+        "stop" : 1637277774046,
+        "duration" : 4841
+      }
+    }, {
+      "uid" : "52f2c5175385d897",
+      "status" : "broken",
+      "statusDetails" : "Failed to click invalid selector: invalid selector: Unable to locate an element with the xpath expression ///*[@id='site-nav-cars-menu-section-tab-0']/h2 because of the following error:\n                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '///*[@id='site-nav-cars-menu-section-tab-0']/h2' is not a valid XPath expression.\n                  (Session info: chrome=96.0.4664.55)",
+      "time" : {
+        "start" : 1637277731139,
+        "stop" : 1637277735322,
+        "duration" : 4183
+      }
+    }, {
+      "uid" : "58113ce3172d7562",
+      "status" : "broken",
+      "statusDetails" : "Failed to click invalid selector: invalid selector: Unable to locate an element with the xpath expression ///*[@id='site-nav-cars-menu-section-tab-0']/h2 because of the following error:\n                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '///*[@id='site-nav-cars-menu-section-tab-0']/h2' is not a valid XPath expression.\n                  (Session info: chrome=96.0.4664.55)",
+      "time" : {
+        "start" : 1637277639696,
+        "stop" : 1637277642353,
+        "duration" : 2657
+      }
+    }, {
+      "uid" : "257ccc9d2e6bd61b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277479251,
+        "stop" : 1637277482040,
+        "duration" : 2789
+      }
+    }, {
+      "uid" : "c8a370b070bede0e",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: Can't call click on element with selector \"//*[@id='site-nav-cars-menu-section-tab-0']/h\" because element wasn't found",
+      "time" : {
+        "start" : 1637277444768,
+        "stop" : 1637277456978,
+        "duration" : 12210
+      }
+    }, {
+      "uid" : "96b4266629ed58e6",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: Can't call click on element with selector \"//*[@id='site-nav-cars-menu-section-tab-0']/h\" because element wasn't found",
+      "time" : {
+        "start" : 1637277387416,
+        "stop" : 1637277399759,
+        "duration" : 12343
+      }
+    }, {
+      "uid" : "3dde726c81812661",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277341802,
+        "stop" : 1637277344600,
+        "duration" : 2798
+      }
+    }, {
+      "uid" : "b9f72141e69594c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637277320741,
+        "stop" : 1637277323306,
+        "duration" : 2565
+      }
+    }, {
+      "uid" : "c32650f165f94275",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: Can't call click on element with selector \"//em[text()='Hybrids']\" because element wasn't found",
+      "time" : {
+        "start" : 1637277283950,
+        "stop" : 1637277296699,
+        "duration" : 12749
+      }
+    }, {
+      "uid" : "902737053ab17042",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: Can't call click on element with selector \"//em[text()='Hybrids']\" because element wasn't found",
+      "time" : {
+        "start" : 1637277100856,
+        "stop" : 1637277114809,
+        "duration" : 13953
+      }
+    }, {
+      "uid" : "417319e5874447f",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: Can't call click on element with selector \"//em[text()='Hybrids']\" because element wasn't found",
+      "time" : {
+        "start" : 1637277046342,
+        "stop" : 1637277058746,
+        "duration" : 12404
+      }
+    }, {
+      "uid" : "bc180e6277e8e3ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276956311,
+        "stop" : 1637276960092,
+        "duration" : 3781
+      }
+    }, {
+      "uid" : "c5be1a7212a54409",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: Can't call click on element with selector \"//em[text()='Electric']\" because element wasn't found",
+      "time" : {
+        "start" : 1637276893588,
+        "stop" : 1637276905842,
+        "duration" : 12254
+      }
+    }, {
+      "uid" : "83fb18953de6cca2",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: Can't call click on element with selector \"//em[text()='Electric']\" because element wasn't found",
+      "time" : {
+        "start" : 1637276838362,
+        "stop" : 1637276850761,
+        "duration" : 12399
+      }
+    }, {
+      "uid" : "b61194e8cd54d826",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276653038,
+        "stop" : 1637276655125,
+        "duration" : 2087
+      }
+    }, {
+      "uid" : "40ef725813c9b756",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: Can't call click on element with selector \"//em[text()='Ou Cars']\" because element wasn't found",
+      "time" : {
+        "start" : 1637276586166,
+        "stop" : 1637276597242,
+        "duration" : 11076
+      }
+    }, {
+      "uid" : "1c6a53bea9a49f85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276507765,
+        "stop" : 1637276509840,
+        "duration" : 2075
+      }
+    }, {
+      "uid" : "17214c2007903b68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276470163,
+        "stop" : 1637276472281,
+        "duration" : 2118
+      }
+    }, {
+      "uid" : "2565e062803d4538",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276432286,
+        "stop" : 1637276434449,
+        "duration" : 2163
+      }
+    }, {
+      "uid" : "1d7ca084aaeae59a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637276412726,
+        "stop" : 1637276414771,
+        "duration" : 2045
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "169df4090de4e289.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

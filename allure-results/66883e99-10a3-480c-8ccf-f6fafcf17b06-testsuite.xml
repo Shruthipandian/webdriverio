@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637278249153' stop='1637278253914'>
+    <name>Verify the buy item frommeny</name>
+    <title>Verify the buy item frommeny</title>
+    <test-cases>
+        <test-case start='1637278249154' status='passed' stop='1637278253913'>
+            <name>verify design your volvo page</name>
+            <title>verify design your volvo page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

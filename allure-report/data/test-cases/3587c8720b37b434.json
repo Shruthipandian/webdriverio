@@ -1,0 +1,74 @@
+{
+  "uid" : "3587c8720b37b434",
+  "name" : "Verify the different electric cars ",
+  "fullName" : "Verify our cars Menu.Verify the different electric cars ",
+  "historyId" : "f24f73d35151ecedf7de197a06edbb0e",
+  "time" : {
+    "start" : 1637278253053,
+    "stop" : 1637278253224,
+    "duration" : 171
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the different electric cars "
+  }, {
+    "name" : "package",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5dc51c679c363f4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278051750,
+        "stop" : 1637278051891,
+        "duration" : 141
+      }
+    }, {
+      "uid" : "1ad675ddb2d0572a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278016945,
+        "stop" : 1637278017088,
+        "duration" : 143
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3587c8720b37b434.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

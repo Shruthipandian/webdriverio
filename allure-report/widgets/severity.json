@@ -1,0 +1,141 @@
+[ {
+  "uid" : "706fb595d05e6f9a",
+  "name" : "Verify the menu items for Volvo Home Page",
+  "time" : {
+    "start" : 1637260001316,
+    "stop" : 1637260006867,
+    "duration" : 5551
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "169df4090de4e289",
+  "name" : "Verify the electic cars",
+  "time" : {
+    "start" : 1637277907124,
+    "stop" : 1637277910037,
+    "duration" : 2913
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "422aa535a1848fbd",
+  "name" : "Verify the menu items for Volvo Home Page",
+  "time" : {
+    "start" : 1637268139011,
+    "stop" : 1637268140084,
+    "duration" : 1073
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bb3fdc16f8c30716",
+  "name" : "Verify the video in Volvo Home Page",
+  "time" : {
+    "start" : 1637273018733,
+    "stop" : 1637273019768,
+    "duration" : 1035
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "34bf0494991034dc",
+  "name" : "Verify the menu items for Volvo Home Page",
+  "time" : {
+    "start" : 1637260001316,
+    "stop" : 1637260006853,
+    "duration" : 5537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "322ae5241cc6f16b",
+  "name" : "Verify the menu items for Volvo Home Page",
+  "time" : {
+    "start" : 1637260173873,
+    "stop" : 1637260177397,
+    "duration" : 3524
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c648cccf27976fda",
+  "name" : "should detect if an element is displayed",
+  "time" : {
+    "start" : 1637271908602,
+    "stop" : 1637271908628,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac465844ede67488",
+  "name" : "Verify the menu items for Volvo Home Page",
+  "time" : {
+    "start" : 1637271903193,
+    "stop" : 1637271907661,
+    "duration" : 4468
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3587c8720b37b434",
+  "name" : "Verify the different electric cars ",
+  "time" : {
+    "start" : 1637278253053,
+    "stop" : 1637278253224,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31a40f941857bacf",
+  "name" : "verify design your volvo page",
+  "time" : {
+    "start" : 1637278249154,
+    "stop" : 1637278253913,
+    "duration" : 4759
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4aabc7dfa53db65",
+  "name" : "Verify navigation bar",
+  "time" : {
+    "start" : 1637278249113,
+    "stop" : 1637278253828,
+    "duration" : 4715
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27d310548fac737d",
+  "name" : "Verify the different cars menu",
+  "time" : {
+    "start" : 1637278249301,
+    "stop" : 1637278253052,
+    "duration" : 3751
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68c6d226f76efa1b",
+  "name" : "should detect if an element is clickable",
+  "time" : {
+    "start" : 1637271908565,
+    "stop" : 1637271908601,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37aa782140e6ea69",
+  "name" : "to click learn more button in Volvo Home Page",
+  "time" : {
+    "start" : 1637271907669,
+    "stop" : 1637271908564,
+    "duration" : 895
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

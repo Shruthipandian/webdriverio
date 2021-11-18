@@ -1,0 +1,56 @@
+{
+  "uid" : "c2fa13a9248ff37b",
+  "name" : "Verify the different cars menu",
+  "fullName" : "Verify our cars Menu.Verify the different cars menu",
+  "historyId" : "b7bf95391b96190e4f82b9220f5afb69",
+  "time" : {
+    "start" : 1637278014087,
+    "stop" : 1637278016945,
+    "duration" : 2858
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the different cars menu"
+  }, {
+    "name" : "package",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2fa13a9248ff37b.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

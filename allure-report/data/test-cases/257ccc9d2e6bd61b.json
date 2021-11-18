@@ -1,0 +1,56 @@
+{
+  "uid" : "257ccc9d2e6bd61b",
+  "name" : "Verify the electic cars",
+  "fullName" : "Verify our cars Menu.Verify the electic cars",
+  "historyId" : "199fe153cd64690b1c65942d6ee4002b",
+  "time" : {
+    "start" : 1637277479251,
+    "stop" : 1637277482040,
+    "duration" : 2789
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the electic cars"
+  }, {
+    "name" : "package",
+    "value" : "Verify our cars Menu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "257ccc9d2e6bd61b.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

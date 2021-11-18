@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637273038840' stop='1637273039697'>
+    <name>Verify the Volvo Home Page Nav Bar</name>
+    <title>Verify the Volvo Home Page Nav Bar</title>
+    <test-cases>
+        <test-case start='1637273038840' status='broken' stop='1637273039697'>
+            <name>Verify navigation bar</name>
+            <title>Verify navigation bar</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>HomePageLocators.menuItems.isDisplayed is not a function</message>
+                <stack-trace>TypeError: HomePageLocators.menuItems.isDisplayed is not a function
+                    at Context.&lt;anonymous> (/Users/prabhu/Downloads/TestProject-3/specs/Test_001.js:10:42)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

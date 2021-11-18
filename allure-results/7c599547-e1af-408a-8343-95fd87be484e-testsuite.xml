@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637278249112' stop='1637278253828'>
+    <name>Verify the Volvo Home Page Nav Bar</name>
+    <title>Verify the Volvo Home Page Nav Bar</title>
+    <test-cases>
+        <test-case start='1637278249113' status='passed' stop='1637278253828'>
+            <name>Verify navigation bar</name>
+            <title>Verify navigation bar</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

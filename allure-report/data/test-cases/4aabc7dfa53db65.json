@@ -1,0 +1,344 @@
+{
+  "uid" : "4aabc7dfa53db65",
+  "name" : "Verify navigation bar",
+  "fullName" : "Verify the Volvo Home Page Nav Bar.Verify navigation bar",
+  "historyId" : "1da5677d7c2e56da24478c5f7377b1de",
+  "time" : {
+    "start" : 1637278249113,
+    "stop" : 1637278253828,
+    "duration" : 4715
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Volvo Home Page Nav Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Volvo Home Page Nav Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify navigation bar"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Volvo Home Page Nav Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fe7a5c6a3e775677",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275922586,
+        "stop" : 1637275927044,
+        "duration" : 4458
+      }
+    }, {
+      "uid" : "fd2fda1f06852ebb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275845425,
+        "stop" : 1637275849077,
+        "duration" : 3652
+      }
+    }, {
+      "uid" : "91dbf953ca39ca18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275811826,
+        "stop" : 1637275815406,
+        "duration" : 3580
+      }
+    }, {
+      "uid" : "28c09a14691755ed",
+      "status" : "broken",
+      "statusDetails" : "Failed to click element not interactable: element not interactable\n                  (Session info: headless chrome=96.0.4664.55)",
+      "time" : {
+        "start" : 1637275780269,
+        "stop" : 1637275782682,
+        "duration" : 2413
+      }
+    }, {
+      "uid" : "f60db61e5d9f1ad1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275732648,
+        "stop" : 1637275736304,
+        "duration" : 3656
+      }
+    }, {
+      "uid" : "d198091b9934f88",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637275641857,
+        "stop" : 1637275642758,
+        "duration" : 901
+      }
+    }, {
+      "uid" : "799c56a0fa73dc49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275614384,
+        "stop" : 1637275617895,
+        "duration" : 3511
+      }
+    }, {
+      "uid" : "249647cf9206201b",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637275582080,
+        "stop" : 1637275583031,
+        "duration" : 951
+      }
+    }, {
+      "uid" : "3a17b3edfb7bcbe7",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637275555365,
+        "stop" : 1637275556367,
+        "duration" : 1002
+      }
+    }, {
+      "uid" : "f20009df9ae66228",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637275510122,
+        "stop" : 1637275511303,
+        "duration" : 1181
+      }
+    }, {
+      "uid" : "719279add5c9d42c",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637275494912,
+        "stop" : 1637275495906,
+        "duration" : 994
+      }
+    }, {
+      "uid" : "472ba62d5d0bc4c5",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637275340237,
+        "stop" : 1637275341330,
+        "duration" : 1093
+      }
+    }, {
+      "uid" : "8c5731f26d5529b7",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637275271616,
+        "stop" : 1637275272552,
+        "duration" : 936
+      }
+    }, {
+      "uid" : "3362ef89ba25bf24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275193328,
+        "stop" : 1637275197563,
+        "duration" : 4235
+      }
+    }, {
+      "uid" : "6d36b4630925bce5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637275163515,
+        "stop" : 1637275168617,
+        "duration" : 5102
+      }
+    }, {
+      "uid" : "2ded34d0cb132526",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637275114807,
+        "stop" : 1637275115983,
+        "duration" : 1176
+      }
+    }, {
+      "uid" : "789332766f264177",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637275060679,
+        "stop" : 1637275061647,
+        "duration" : 968
+      }
+    }, {
+      "uid" : "6375ebd0145b5764",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637275033072,
+        "stop" : 1637275034107,
+        "duration" : 1035
+      }
+    }, {
+      "uid" : "c985d114b39dd0c2",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637274985933,
+        "stop" : 1637274987061,
+        "duration" : 1128
+      }
+    }, {
+      "uid" : "44541bcefac9e9ce",
+      "status" : "broken",
+      "statusDetails" : "Failed to click Error: selector needs to be typeof `string` or `function`",
+      "time" : {
+        "start" : 1637274917941,
+        "stop" : 1637274919090,
+        "duration" : 1149
+      }
+    }, {
+      "uid" : "3eb4f10bcc89bc8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637274649578,
+        "stop" : 1637274653241,
+        "duration" : 3663
+      }
+    }, {
+      "uid" : "539737149c840d4b",
+      "status" : "broken",
+      "statusDetails" : "isDisplayed is not defined",
+      "time" : {
+        "start" : 1637274560232,
+        "stop" : 1637274561372,
+        "duration" : 1140
+      }
+    }, {
+      "uid" : "4c9ef1756d1f1505",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637274394623,
+        "stop" : 1637274398261,
+        "duration" : 3638
+      }
+    }, {
+      "uid" : "c79cba563ef4f788",
+      "status" : "broken",
+      "statusDetails" : "HomePageLocator.menuItems.click is not a function",
+      "time" : {
+        "start" : 1637273678096,
+        "stop" : 1637273679155,
+        "duration" : 1059
+      }
+    }, {
+      "uid" : "c05d9f1e3642503",
+      "status" : "broken",
+      "statusDetails" : "isDisplayed is not defined",
+      "time" : {
+        "start" : 1637273625996,
+        "stop" : 1637273626982,
+        "duration" : 986
+      }
+    }, {
+      "uid" : "867192964f2a1db7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637273499726,
+        "stop" : 1637273503361,
+        "duration" : 3635
+      }
+    }, {
+      "uid" : "b781c849f4284586",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637273464348,
+        "stop" : 1637273467866,
+        "duration" : 3518
+      }
+    }, {
+      "uid" : "8972a0db3f544872",
+      "status" : "broken",
+      "statusDetails" : "HomePageLocator.menuItems.isDisplayed is not a function",
+      "time" : {
+        "start" : 1637273239441,
+        "stop" : 1637273240375,
+        "duration" : 934
+      }
+    }, {
+      "uid" : "b4e25070d779572a",
+      "status" : "broken",
+      "statusDetails" : "HomePageLocators.menuItems.isDisplayed is not a function",
+      "time" : {
+        "start" : 1637273038840,
+        "stop" : 1637273039697,
+        "duration" : 857
+      }
+    }, {
+      "uid" : "a5c5ffcb91885675",
+      "status" : "broken",
+      "statusDetails" : "HomePageLocators.menuItems.isDisplayed is not a function",
+      "time" : {
+        "start" : 1637273017737,
+        "stop" : 1637273018721,
+        "duration" : 984
+      }
+    }, {
+      "uid" : "e21d343a935e128e",
+      "status" : "broken",
+      "statusDetails" : "HomePageLocators.menuItems.isDisplayed is not a function",
+      "time" : {
+        "start" : 1637273001305,
+        "stop" : 1637273002333,
+        "duration" : 1028
+      }
+    }, {
+      "uid" : "1cbddeecc3a855b5",
+      "status" : "broken",
+      "statusDetails" : "HomePageLocators is not defined",
+      "time" : {
+        "start" : 1637272865020,
+        "stop" : 1637272865920,
+        "duration" : 900
+      }
+    }, {
+      "uid" : "7ad2d86cc6783d59",
+      "status" : "broken",
+      "statusDetails" : "HomePageLocators is not defined",
+      "time" : {
+        "start" : 1637272808735,
+        "stop" : 1637272810251,
+        "duration" : 1516
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4aabc7dfa53db65.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

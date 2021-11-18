@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637278249300' stop='1637278253225'>
+    <name>Verify our cars Menu</name>
+    <title>Verify our cars Menu</title>
+    <test-cases>
+        <test-case start='1637278249301' status='passed' stop='1637278253052'>
+            <name>Verify the different cars menu</name>
+            <title>Verify the different cars menu</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1637278253053' status='passed' stop='1637278253224'>
+            <name>Verify the different electric cars </name>
+            <title>Verify the different electric cars </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

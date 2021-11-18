@@ -1,0 +1,66 @@
+{
+  "uid" : "31a40f941857bacf",
+  "name" : "verify design your volvo page",
+  "fullName" : "Verify the buy item frommeny.verify design your volvo page",
+  "historyId" : "33a3d51e168ccfef745248f7e3403cbf",
+  "time" : {
+    "start" : 1637278249154,
+    "stop" : 1637278253913,
+    "duration" : 4759
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the buy item frommeny"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the buy item frommeny"
+  }, {
+    "name" : "testMethod",
+    "value" : "verify design your volvo page"
+  }, {
+    "name" : "package",
+    "value" : "Verify the buy item frommeny"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "46ede182e6f5d643",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637278229509,
+        "stop" : 1637278233367,
+        "duration" : 3858
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "31a40f941857bacf.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

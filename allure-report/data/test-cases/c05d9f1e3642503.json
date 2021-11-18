@@ -1,0 +1,58 @@
+{
+  "uid" : "c05d9f1e3642503",
+  "name" : "Verify navigation bar",
+  "fullName" : "Verify the Volvo Home Page Nav Bar.Verify navigation bar",
+  "historyId" : "1da5677d7c2e56da24478c5f7377b1de",
+  "time" : {
+    "start" : 1637273625996,
+    "stop" : 1637273626982,
+    "duration" : 986
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "isDisplayed is not defined",
+  "statusTrace" : "ReferenceError: isDisplayed is not defined\n                    at Context.<anonymous> (/Users/prabhu/Downloads/TestProject-3/specs/Test_001.js:12:9)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Volvo Home Page Nav Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Volvo Home Page Nav Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify navigation bar"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Volvo Home Page Nav Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c05d9f1e3642503.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

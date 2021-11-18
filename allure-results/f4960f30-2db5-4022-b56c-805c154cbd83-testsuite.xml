@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637277731139' stop='1637277735322'>
+    <name>Verify our cars Menu</name>
+    <title>Verify our cars Menu</title>
+    <test-cases>
+        <test-case start='1637277731139' status='broken' stop='1637277735322'>
+            <name>Verify the electic cars</name>
+            <title>Verify the electic cars</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Failed to click invalid selector: invalid selector: Unable to locate an element with the xpath expression ///*[@id='site-nav-cars-menu-section-tab-0']/h2 because of the following error:
+                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '///*[@id='site-nav-cars-menu-section-tab-0']/h2' is not a valid XPath expression.
+                  (Session info: chrome=96.0.4664.55)</message>
+                <stack-trace>AssertionError: Failed to click invalid selector: invalid selector: Unable to locate an element with the xpath expression ///*[@id='site-nav-cars-menu-section-tab-0']/h2 because of the following error:
+                SyntaxError: Failed to execute 'evaluate' on 'Document': The string '///*[@id='site-nav-cars-menu-section-tab-0']/h2' is not a valid XPath expression.
+                  (Session info: chrome=96.0.4664.55)
+                    at SafeActions.smartClick (/Users/prabhu/Downloads/TestProject-3/Utilities/SafeActions.js:20:24)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                    at async Context.&lt;anonymous> (/Users/prabhu/Downloads/TestProject-3/specs/Test_002.js:12:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

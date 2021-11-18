@@ -1,0 +1,67 @@
+{
+  "uid" : "34bf0494991034dc",
+  "name" : "Verify the menu items for Volvo Home Page",
+  "fullName" : "Verify the Volvo Home Page Test2.Verify the menu items for Volvo Home Page",
+  "historyId" : "390a72aec76ba33f1b4a3d3894b3457a",
+  "time" : {
+    "start" : 1637260001316,
+    "stop" : 1637260006853,
+    "duration" : 5537
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Volvo Home Page Test2"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Volvo Home Page Test2"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the menu items for Volvo Home Page"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Volvo Home Page Test2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4ae26ae98b04813f",
+      "status" : "broken",
+      "statusDetails" : "Failed to click element not interactable: element not interactable\n                  (Session info: headless chrome=96.0.4664.45)",
+      "time" : {
+        "start" : 1637259941515,
+        "stop" : 1637259943795,
+        "duration" : 2280
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34bf0494991034dc.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

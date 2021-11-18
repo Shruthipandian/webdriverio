@@ -1,0 +1,56 @@
+{
+  "uid" : "46ede182e6f5d643",
+  "name" : "verify design your volvo page",
+  "fullName" : "Verify the buy item frommeny.verify design your volvo page",
+  "historyId" : "33a3d51e168ccfef745248f7e3403cbf",
+  "time" : {
+    "start" : 1637278229509,
+    "stop" : 1637278233367,
+    "duration" : 3858
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the buy item frommeny"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the buy item frommeny"
+  }, {
+    "name" : "testMethod",
+    "value" : "verify design your volvo page"
+  }, {
+    "name" : "package",
+    "value" : "Verify the buy item frommeny"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "46ede182e6f5d643.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

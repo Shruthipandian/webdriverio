@@ -1,0 +1,100 @@
+{
+  "uid" : "37aa782140e6ea69",
+  "name" : "to click learn more button in Volvo Home Page",
+  "fullName" : "Verify the Volvo Home Page Test1.to click learn more button in Volvo Home Page",
+  "historyId" : "879ac8f8bfb4a4ecb4b2ec8e17e1cb84",
+  "time" : {
+    "start" : 1637271907669,
+    "stop" : 1637271908564,
+    "duration" : 895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Failed to click element not interactable: element not interactable\n                  (Session info: chrome=96.0.4664.55)",
+  "statusTrace" : "AssertionError: Failed to click element not interactable: element not interactable\n                  (Session info: chrome=96.0.4664.55)\n                    at SafeActions.smartClick (/Users/prabhu/Downloads/TestProject-3/Utilities/SafeActions.js:20:16)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n                    at async HomePage.open (/Users/prabhu/Downloads/TestProject-3/pages/HomePage.js:8:9)\n                    at async Context.<anonymous> (/Users/prabhu/Downloads/TestProject-3/specs/Test_001.js:16:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the Volvo Home Page Test1"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the Volvo Home Page Test1"
+  }, {
+    "name" : "testMethod",
+    "value" : "to click learn more button in Volvo Home Page"
+  }, {
+    "name" : "package",
+    "value" : "Verify the Volvo Home Page Test1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ec02d5c837eeff51",
+      "status" : "broken",
+      "statusDetails" : "Failed to click element not interactable: element not interactable\n                  (Session info: chrome=96.0.4664.55)",
+      "time" : {
+        "start" : 1637270956370,
+        "stop" : 1637270957045,
+        "duration" : 675
+      }
+    }, {
+      "uid" : "e35d146d0184c262",
+      "status" : "broken",
+      "statusDetails" : "Failed to click element not interactable: element not interactable\n                  (Session info: headless chrome=96.0.4664.55)",
+      "time" : {
+        "start" : 1637270799586,
+        "stop" : 1637270800431,
+        "duration" : 845
+      }
+    }, {
+      "uid" : "8923063aaa9a16f0",
+      "status" : "broken",
+      "statusDetails" : "Failed to click element not interactable: element not interactable\n                  (Session info: headless chrome=96.0.4664.55)",
+      "time" : {
+        "start" : 1637269307924,
+        "stop" : 1637269308467,
+        "duration" : 543
+      }
+    }, {
+      "uid" : "ae73fdcb42eca1fd",
+      "status" : "broken",
+      "statusDetails" : "Failed to click element not interactable: element not interactable\n                  (Session info: headless chrome=96.0.4664.55)",
+      "time" : {
+        "start" : 1637269147808,
+        "stop" : 1637269148865,
+        "duration" : 1057
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "37aa782140e6ea69.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

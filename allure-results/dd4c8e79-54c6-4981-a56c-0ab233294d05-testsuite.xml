@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637271908602' stop='1637271908628'>
+    <name>Verify the Volvo Home Page Test1</name>
+    <title>Verify the Volvo Home Page Test1</title>
+    <test-cases>
+        <test-case start='1637271908602' status='passed' stop='1637271908628'>
+            <name>should detect if an element is displayed</name>
+            <title>should detect if an element is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
